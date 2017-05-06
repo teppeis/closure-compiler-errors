@@ -1,0 +1,14 @@
+{
+  "name": "cc-module-test1",
+  "version": "1.0.0",
+  "author": "Teppei Sato <teppeis@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "closure-compiler-cli": "^1.0.2"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
