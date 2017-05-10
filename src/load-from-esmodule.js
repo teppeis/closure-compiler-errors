@@ -5,7 +5,7 @@ console.log(foo(1) + dup);
 
 const bar = require('./cjs1');
 console.log(bar(2) + dup);
-
+var module = goog.module.get('googModule1');
 // goog.module('foooo');
 // const mod1 = goog.require('googModule1');
 // console.log(mod1(3));
