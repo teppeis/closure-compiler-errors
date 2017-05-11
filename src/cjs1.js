@@ -1,11 +1,1 @@
-var dup = 0;
-
-/**
- * @param {number} n
- * @return {string}
- */
-function foo(n) {
-  return `foo: ${n}`;
-}
-
-module.exports = foo;
+module.exports = 'foo';
